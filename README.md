@@ -1,1 +1,1 @@
-# curso_react_ninja
+# esse é o curso de react ninja da udemy
